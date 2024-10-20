@@ -466,19 +466,12 @@ While Weather Explorer boasts a robust feature set, several enhancements can fur
 - **Performance Optimization**: Further optimize performance by implementing code splitting and image optimization techniques.
 - **Advanced Search Filters**: Enable users to filter cities based on specific weather conditions or proximity to their current location.
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
 ## Contact
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourlinkedinprofile/)
+- **Email**: ashutoshpanda.india@gmail.com
+- **GitHub**: [@Ashutosh-Panda2004](https://github.com/Ashutosh-Panda2004)
+- **LinkedIn**: [Ashutosh Panda](https://www.linkedin.com/in/ashutosh-panda-748531255/)
 
 ---
-*This README was created to provide comprehensive information about the Weather Explorer application. For any further assistance or inquiries, please contact the maintainer.*
-```
-
