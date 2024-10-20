@@ -1,4 +1,4 @@
-```markdown
+
 # Weather Explorer
 
 ![Weather Explorer Logo](./public/logo.png)
