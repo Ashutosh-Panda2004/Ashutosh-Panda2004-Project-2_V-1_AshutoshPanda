@@ -1,0 +1,49 @@
+/* src/css/RealTimeWeather.css */
+
+.real-time-weather {
+    padding: 2rem;
+    background-color: var(--cardColor);
+    border-radius: 1rem;
+    box-shadow: var(--profileShadow);
+    margin: 2rem 0;
+  }
+  
+  .real-time-weather h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: var(--textColor);
+  }
+  
+  .daily-summaries {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .alerts {
+    margin-top: 2rem;
+  }
+  
+
+  @media (max-width: 768px) {
+    .real-time-weather {
+      padding: 1.5rem;
+      margin: 1.5rem auto;
+    }
+  
+    .real-time-weather h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1.5rem;
+    }
+  
+    .daily-summaries {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .daily-summaries {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }

@@ -1,0 +1,26 @@
+/* src/css/DailySummaryCard.css */
+
+.daily-summary-card {
+    background-color: var(--bgColor1);
+    border: 1px solid var(--hrColor);
+    border-radius: 0.75rem;
+    padding: 1rem;
+    width: 250px;
+    box-shadow: var(--profileShadow);
+    transition: transform 0.3s;
+  }
+  
+  .daily-summary-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .daily-summary-card h3 {
+    margin-bottom: 0.5rem;
+    color: var(--textColor);
+  }
+  
+  .daily-summary-card p {
+    margin: 0.25rem 0;
+    color: var(--subHeadingColor);
+  }
+  

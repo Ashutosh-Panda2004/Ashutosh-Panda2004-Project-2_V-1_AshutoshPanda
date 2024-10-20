@@ -1,0 +1,10 @@
+/* src/css/Visualization.css */
+
+.visualization {
+    margin-top: 2rem;
+    background-color: var(--bgColor1);
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: var(--profileShadow);
+  }
+  

@@ -1,0 +1,43 @@
+/* src/css/TrackedCitiesList.css */
+
+.tracked-cities {
+    margin-top: 2rem;
+    background-color: var(--bgColor1);
+    padding: 1rem;
+    border-radius: 0.75rem;
+    box-shadow: var(--profileShadow);
+  }
+  
+  .tracked-cities h3 {
+    margin-bottom: 1rem;
+    color: var(--textColor);
+    text-align: center;
+  }
+  
+  .tracked-cities ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+  
+  .tracked-cities li {
+    background-color: var(--buttonBg);
+    color: #d69090;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .remove-icon {
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .remove-icon:hover {
+    color: #ff4d4d;
+  }
+  
