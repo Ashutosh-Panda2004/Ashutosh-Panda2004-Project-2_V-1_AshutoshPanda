@@ -97,7 +97,8 @@ Implements robust error handling to inform users of invalid searches, network is
 
 ## Demo
 
-![Alt text](hhttps://github.com/Ashutosh-Panda2004/Project-2_V-1_AshutoshPanda/blob/main/screenshots/02.png?raw=true){ width=300 height=200 }
+![Alt text](https://github.com/Ashutosh-Panda2004/Project-2_V-1_AshutoshPanda/blob/main/screenshots/02.png?raw=true){ width=300 height=200 }
+
 *Figure 2: Weather Explorer Application Screenshot (https://youtu.be/I4YmMqh01nI)*
 
 
