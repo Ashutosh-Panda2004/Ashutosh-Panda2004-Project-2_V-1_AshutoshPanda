@@ -1,7 +1,7 @@
 
 # Weather Explorer
 
-![Weather Explorer Logo](./public/logo.png)
+![Weather Explorer Logo](https://github.com/Ashutosh-Panda2004/Project-2_V-1_AshutoshPanda/blob/main/screenshots/01.png?raw=true)
 *Figure 1: Weather Explorer Application Logo*
 
 ## Table of Contents
