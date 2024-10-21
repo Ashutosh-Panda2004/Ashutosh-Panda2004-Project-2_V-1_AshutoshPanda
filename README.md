@@ -97,11 +97,9 @@ Implements robust error handling to inform users of invalid searches, network is
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/I4YmMqh01nI/0.jpg)](https://youtu.be/I4YmMqh01nI)
+![Alt text](hhttps://github.com/Ashutosh-Panda2004/Project-2_V-1_AshutoshPanda/blob/main/screenshots/02.png?raw=true){ width=300 height=200 }
+*Figure 2: Weather Explorer Application Screenshot (https://youtu.be/I4YmMqh01nI)*
 
-*Figure 2: Weather Explorer Application Screenshot*
-
-*Insert a video tutorial demonstrating the application's key features here.*
 
 ## Technologies Used
 
@@ -348,27 +346,27 @@ To provide a comprehensive understanding of Weather Explorer's functionality and
 
 1. **Getting Started with Weather Explorer**: A step-by-step guide on installing, setting up, and launching Weather Explorer locally.
 
-   [Watch the tutorial here](https://www.youtube.com/watch?v=yourvideo1)
+   [Watch the tutorial here](https://youtu.be/I4YmMqh01nI)
 
 2. **Using the Search and Autocomplete Feature**: Demonstrates how to effectively use the search bar and interpret autocomplete suggestions.
 
-   [Watch the tutorial here](https://www.youtube.com/watch?v=yourvideo2)
+   [Watch the tutorial here](https://youtu.be/I4YmMqh01nI)
 
 3. **Managing Tracked Cities**: Shows how to add multiple cities to your tracked list and remove them as needed.
 
-   [Watch the tutorial here](https://www.youtube.com/watch?v=yourvideo3)
+   [Watch the tutorial here](https://youtu.be/I4YmMqh01nI)
 
 4. **Switching Themes and Temperature Units**: Guides users on toggling between light/dark modes and Celsius/Fahrenheit units.
 
-   [Watch the tutorial here](https://www.youtube.com/watch?v=yourvideo4)
+   [Watch the tutorial here](https://youtu.be/I4YmMqh01nI)
 
 5. **Understanding Error Handling**: Explains how the application handles errors and provides feedback to users.
 
-   [Watch the tutorial here](https://www.youtube.com/watch?v=yourvideo5)
+   [Watch the tutorial here](https://youtu.be/I4YmMqh01nI)
 
 6. **Changing Language Settings**: Illustrates how to switch the application's language and the impact on the user interface.
 
-   [Watch the tutorial here](https://www.youtube.com/watch?v=yourvideo6)
+   [Watch the tutorial here](https://youtu.be/I4YmMqh01nI)
 
 *Replace the placeholder links with actual URLs to your video tutorials hosted on platforms like YouTube or Vimeo.*
 
