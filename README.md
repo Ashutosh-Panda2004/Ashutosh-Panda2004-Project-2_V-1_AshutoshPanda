@@ -97,7 +97,8 @@ Implements robust error handling to inform users of invalid searches, network is
 
 ## Demo
 
-![Weather Explorer Demo](./public/screenshot.png)
+[![Watch the video](https://img.youtube.com/vi/I4YmMqh01nI/0.jpg)](https://youtu.be/I4YmMqh01nI)
+
 *Figure 2: Weather Explorer Application Screenshot*
 
 *Insert a video tutorial demonstrating the application's key features here.*
